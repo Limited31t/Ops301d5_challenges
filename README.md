@@ -7,3 +7,5 @@
 [Ops301d5_challenges04](challenge04.sh)
 
 [Ops301d5_challenges05](challenge05.sh)
+
+[Ops301d5_challenges06](challenge06.py)
