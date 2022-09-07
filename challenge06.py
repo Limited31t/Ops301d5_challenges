@@ -1,3 +1,11 @@
+#!/bin/python3
+
+# Script: Bash in Python
+# Author: Gary King                     
+# Date of latest revision:  09/06/22    
+# Purpose: Bash in Python
+
+
 # imports the os library
 import os
 # variables
