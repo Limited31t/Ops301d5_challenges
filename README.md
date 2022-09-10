@@ -14,4 +14,4 @@
 
 [Ops301d5_challenges08](challenge08.sh)
 
-[Ops301d5_challenges09](challenge09.sh)
+[Ops301d5_challenges09](challenge09.py)
