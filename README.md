@@ -15,3 +15,11 @@
 [Ops301d5_challenges08](challenge08.sh)
 
 [Ops301d5_challenges09](challenge09.py)
+
+[Ops301d5_challenges10](challenge10.py)
+
+[Ops301d5_challenges11](challenge11.py)
+
+[Ops301d5_challenges12](challenge12.py)
+
+[Ops301d5_challenges13](challenge13.py)
